@@ -6,7 +6,7 @@ body {
 
 #homebanner {
   height: 50%;
-  background-image: url("/assets/images/hero4.jpg");
+  background-image: url("/hero4.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
