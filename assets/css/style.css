@@ -6,14 +6,19 @@ body {
 
 #homebanner {
   height: 50%;
-  background-image: url("/hero4.jpg");
+  background-image: url("https://image.shutterstock.com/z/stock-photo-back-to-school-concept-top-view-banner-of-school-bus-and-pencils-next-to-tree-sketch-with-autumn-1118336468.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #cellestobanner {
-  height: 500px;
+    background-image: url("https://image.shutterstock.com/image-vector/flat-design-style-web-banner-600w-734948962.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
 }
 
 #cellestotagline {
